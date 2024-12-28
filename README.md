@@ -16,17 +16,8 @@
 
 ## Ссылка на бота
 
-[@YourQuizBotUsername](https://t.me/YourQuizBotUsername)
-
-(Замените `YourQuizBotUsername` на имя вашего бота.)
+[@lotas_bot](https://t.me/lotas_bot)
 
 ## Описание
 
 Бот предлагает пройти квиз из 10 вопросов по Python. По завершении вы получите итоговый результат и сможете сравнить свои знания. В любой момент вы можете посмотреть свой последний результат, используя команду **/stats**.
-
-## Установка и запуск (для разработчиков)
-
-1. Клонируйте репозиторий:
-
-   ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
